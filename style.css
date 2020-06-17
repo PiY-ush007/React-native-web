@@ -1,0 +1,64 @@
+body{
+    background-color: rgb(0, 0, 50);
+}
+.header{
+    color:white;
+    background-color: rgb(21, 21, 63);
+    margin: 1em;
+    padding:50px;
+    border:solid 2px rgb(23, 23, 156);
+    display:flex;
+    justify-content: space-between;
+}
+.header a{
+color: white;
+padding-left: 1em;
+padding-right: 1em;
+margin-bottom: 40px;
+
+
+}
+.header:hover a{
+    border:1px solid lightslategray;
+}
+.about{
+    color:white;
+}
+.about h3{
+    margin:1em;
+    margin-top: 5em;
+}
+.about h5{
+    margin:30px;
+}
+.amnote{
+    color:white;
+    display:flex;
+    justify-content: space-evenly;
+    margin:50px;
+}
+.components{
+    margin-top:3em;
+    margin-bottom: 3em;
+}
+.components h5{
+    color:white;
+    margin:30px;
+}
+.components h3{
+color: white;
+margin:1em;
+}
+.app{
+    margin-top:3em;
+    margin-bottom:3em;
+}
+.app h3{
+    color:white;
+    margin:1em;
+}
+.app h5{
+    color:white;
+    margin:30px;
+}
+
